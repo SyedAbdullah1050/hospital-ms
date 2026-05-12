@@ -93,6 +93,6 @@ streamlit run app.py
 - **Semester:** Spring 2026
 ## 📐 UML Class Diagram
 
-![UML Class Diagram](uml(HMS).drawio.png)
+![UML Class Diagram](UMLedited.png)
 
 > Figure 1: UML Class Diagram — Advanced Hospital Management System
